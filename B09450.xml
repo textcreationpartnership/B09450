@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loves fancy, or, The young-mans dream being a caveat for all young men and maids, to make hay in sun-shine and often in shades, for maiden-heads ripe, like corn in their prime, ungathered will shed after harvest-time, to a pleasant new tune, or the the Hay-makers march.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09450</idno><idno type="EEBO-CITATION">62369459</idno>
+  <idno type="VID">188007</idno>
+  <idno type="EEBO-PROQUEST">2248531120</idno>
+  
+            <idno type="STC">Wing L3266</idno>
+            <idno type="STC">ESTC R180177</idno>
+            <idno type="OCLC">62369459</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188007)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2852:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loves fancy, or, The young-mans dream being a caveat for all young men and maids, to make hay in sun-shine and often in shades, for maiden-heads ripe, like corn in their prime, ungathered will shed after harvest-time, to a pleasant new tune, or the the Hay-makers march.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Broadside cropped with some loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:188007:1"/>
+            <pb facs="tcp:188007:2"/>
+            <head>LOVES Fancy, OR, The Young-mans Dream.</head>
+            <argument>
+               <lg>
+                  <l>Being a Caveat for all Young men and Maids.</l>
+                  <l>To make Hay in Sun-shine and often in shades,</l>
+                  <l>For Maiden-heads ripe, like corn in their prime,</l>
+                  <l>Ungathered, will shed after Harvest-time.</l>
+               </lg>
+            </argument>
+            <opener>To a pleasant new Tune, or the Hay-makers march.</opener>
+            <p>
+               <figure>
+                  <figDesc>stock woodcut of couple on bed</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>SHe lay naked in her Bed</l>
+               <l>and I my self lay by,</l>
+               <l>No Weyl nor Curtain there was spread</l>
+               <l>no Covering but I;</l>
+               <l>Her Hair upon both shoulders streak,</l>
+               <l>to bear on carelesse wise;</l>
+               <l>And full of blushes were her chéeks</l>
+               <l>her wishes were her eyes.</l>
+            </lg>
+            <lg>
+               <l>The blood still flushing in her face,</l>
+               <l>as on a Message came,</l>
+               <l>To shew that in some other place</l>
+               <l>it meant some other Game.</l>
+               <l>Her neather lip most plump and fair,</l>
+               <l>millions of kisses crown,</l>
+               <l>Which ripe and uncropt dangle there,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Her golden hair of <hi>Cupids</hi> wire,</l>
+               <l>had caught my heart in snare;</l>
+               <l>Like <hi>Phaebus</hi> in her best attire</l>
+               <l>adorn'd her body fair;</l>
+               <l>Had I then béen the Marygold,</l>
+               <l>seal'd up by drowzy night,</l>
+               <l>At her bright beams I should unfold,</l>
+               <l>my Stalk would stand upright.</l>
+            </lg>
+            <lg>
+               <l>Her pretty dimple in her chin:</l>
+               <l>where <hi>Cupid</hi> sléeping lay,</l>
+               <l>As if it had Loves valley béen,</l>
+               <l>for to repose the Boy:</l>
+               <l>Her Lilly Neck no Pearl more white,</l>
+               <l>rich Carkenets defie,</l>
+               <l>As if it did my Arms invite,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <pb facs="tcp:188007:2"/>
+            <p>
+               <figure>
+                  <figDesc>stock woodcuts of gentleman and lady</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>THe Rivolet betwéen her breasts,</l>
+               <l>Heavens <hi>Nectar</hi> did distil,</l>
+               <l>Where <hi>Venus</hi> Doves do build their Nests</l>
+               <l>and do each other bill.</l>
+               <l>I took it for the Milky way</l>
+               <l>that leads unto all blisse,</l>
+               <l>But that the Muses well, some say,</l>
+               <l>below it placed is.</l>
+            </lg>
+            <lg>
+               <l>Her Breasts that were full swel'd and high</l>
+               <l>bred pleasant pain in me,</l>
+               <l>For all the world I did defie</l>
+               <l>to that Felicity;</l>
+               <l>Her thighs and belly soft and plump,</l>
+               <l>to me was only shown,</l>
+               <l>T'ave séen such meat and not to eat</l>
+               <l>would have anger'd any stone.</l>
+            </lg>
+            <lg>
+               <l>Her knées lay up and gently bent</l>
+               <l>and all lay hollow under,</l>
+               <l>As if on easie terms they meant,</l>
+               <l>if toucht, to fall asunder,</l>
+               <l>Iust so the <hi>Cyprian</hi> Quéen did stay,</l>
+               <l>expecting in her Bower,</l>
+               <l>Which so long time had kept the Boy</l>
+               <l>beyond his promis'd hour.</l>
+            </lg>
+            <lg>
+               <l>Thus in a trance long time I stood,</l>
+               <l>cantiv'd to her desire</l>
+               <l>Loves Feaver kindled in my blood,</l>
+               <l>which from her eyes took fire:</l>
+               <l>Iust so the <hi>Phaenix</hi> when she dies</l>
+               <l>wrapt in her Spicy bed,</l>
+               <l>Her self with her own ashes lyes</l>
+               <l>by which her young ones bred.</l>
+            </lg>
+            <lg>
+               <l>Then streight I was resolv'd to try,</l>
+               <l>the power of my Love,</l>
+               <l>A second thought gets victory,</l>
+               <l>and doth my reason move;</l>
+               <l>Thus as I stood 'twixt hope and fear,</l>
+               <l>not knowing what to do,</l>
+               <l>As if in <hi>Cupids</hi> Net I were,</l>
+               <l>thus she began to wooe.</l>
+            </lg>
+            <lg>
+               <l>Dull Clown, quoth she, dost thou deny</l>
+               <l>this profer'd blisse to take,</l>
+               <l>Canst thou finde out some other way,</l>
+               <l>similitudes to make;</l>
+               <l>Mad with delight I thundred in,</l>
+               <l>and threw my Arms about h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</l>
+               <l>But when I wak d it was but a dream,</l>
+               <l>and so I lay without her.</l>
+               <l>
+                  <hi>But when I wak'd <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> was but a dream,</hi>
+               </l>
+               <l>
+                  <hi>and so I lay without her.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for F. Coles, T. Vere, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
